@@ -108,7 +108,7 @@ module.exports = async function (context, req) {
   <footer>
     Region: ${REGION}<br>
     Desplegado desde GitHub<br>
-    Ninguna VM fue lanzada para servir esta pagina.
+    Ninguna Maquina virtual fue lanzada para servir esta pagina.
   </footer>
 </main>
 </body>
