@@ -60,4 +60,4 @@ jobs:
           app-name: 'agrodata-function'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3A078BCFC58047AB943B3C8371C4B424 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2D0BED94288E4FDDA52B621233096A3C }}
