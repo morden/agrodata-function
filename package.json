@@ -1,0 +1,8 @@
+{
+  "name": "agrodata-function",
+  "version": "1.0.0",
+  "description": "AgroData - demo serverless para Arquitectura de Soluciones",
+  "scripts": {
+    "start": "func start"
+  }
+}
