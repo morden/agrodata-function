@@ -108,13 +108,13 @@ module.exports = async function (context, req) {
   <footer>
     Region: ${REGION}<br>
     Desplegado desde GitHub<br>
-    Ninguna VM fue lanzada para servir esta pagina.
+    Ninguna Virtual Machine fue lanzada para servir esta pagina.
   </footer>
 </main>
 </body>
 </html>`;
 
-    context.res = {
+     context.res = {
         status: 200,
         headers: {
             'Content-Type': 'text/html; charset=utf-8',
